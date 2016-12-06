@@ -1,0 +1,21 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/index/scale",
+    "pages/index/rotate",
+    "pages/index/clearrect",
+    "pages/index/drawimage",
+    "pages/index/filltext",
+    "pages/index/setfillstyle",
+    "pages/index/fivestar"
+  ],
+  "window":{    
+ 	"navigationBarBackgroundColor":"#74c060",
+    "navigationBarTitleStyle":"black",
+    "navigationBarTitleText": "canvas",
+    "statusBarTextStyle":"black",
+    "backgroundColor":"#808080",
+    "backgroundTextStyle":"light"
+  }
+}

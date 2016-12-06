@@ -1,0 +1,2 @@
+<!--pages/index/fivestar.wxml-->
+<canvas canvas-id="1" class="canvas"></canvas>

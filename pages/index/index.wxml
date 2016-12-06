@@ -1,0 +1,22 @@
+<!--index.wxml-->
+<navigator url="../index/scale">
+    <button>scale</button>
+</navigator>
+<navigator url="../index/rotate">
+    <button>rotate</button>
+</navigator>
+<navigator url="../index/clearrect">
+    <button>clearrect</button>
+</navigator>
+<navigator url="../index/drawimage">
+    <button>drawimage</button>
+</navigator>
+<navigator url="../index/filltext">
+    <button>filltext</button>
+</navigator>
+<navigator url="../index/setfillstyle">
+    <button>setfillstyle</button>
+</navigator>
+<navigator url="../index/fivestar">
+    <button>fivestar</button>
+</navigator>
